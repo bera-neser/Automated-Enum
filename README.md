@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/bera-neser/Automated-Enum/main/automated_
 
 ## Usage
 
-After giving execute permission to script, you must run the it as superuser.
+After giving execute permission to script, you must run it as superuser.
 
 ```bash
 chmod u+x automated_enum.sh
