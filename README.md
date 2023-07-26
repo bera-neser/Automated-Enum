@@ -7,14 +7,14 @@ This tool automates the enumeration part of a penetration assessment for pentest
 You can clone this git repository:
 
 ```bash
-git clone <https://github.com/bera-neser/Automated-Enum.git>
+git clone https://github.com/bera-neser/Automated-Enum.git
 cd Automated-Enum
 ```
 
 Or just get the script file:
 
 ```bash
-wget <https://raw.githubusercontent.com/bera-neser/Automated-Enum/main/automated_enum.sh>
+wget https://raw.githubusercontent.com/bera-neser/Automated-Enum/main/automated_enum.sh
 ```
 
 ## Usage
